@@ -1,0 +1,14 @@
+<svg class="iran-logo__svg-root" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 64" fill="none">
+  <g transform="translate(10 45)">
+    <text
+      font-family="Arial Black, Segoe UI, Arial, sans-serif"
+      font-size="41"
+      font-style="italic"
+      font-weight="900"
+      letter-spacing="-1.8"
+      transform="skewX(-12)"
+    >
+      <tspan class="iran-logo__svg-letter" fill="#F7F8FB">M</tspan><tspan class="iran-logo__svg-letter" fill="#F7F8FB">E</tspan><tspan class="iran-logo__svg-letter" fill="#F7F8FB">L</tspan><tspan class="iran-logo__svg-letter" fill="#FFBF00">B</tspan><tspan class="iran-logo__svg-letter" fill="#FFBF00">E</tspan><tspan class="iran-logo__svg-letter" fill="#FFBF00">T</tspan>
+    </text>
+  </g>
+</svg>
