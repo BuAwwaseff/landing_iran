@@ -365,7 +365,7 @@ const localizedContent: Record<Locale, IranMarketContent> = {
             icon: "football",
             media: slot("home-sport-01", "فوتبال برای بازیکنان ایران"),
             cta: {
-              label: "دیدن پیشنهادهای همراه",
+              label: "پیشنهادها را ببینید",
               href: sharedActions.offers,
               kind: "secondary",
               icon: "gift",
@@ -378,7 +378,7 @@ const localizedContent: Record<Locale, IranMarketContent> = {
             icon: "live",
             media: slot("home-sport-02", "بازارهای زنده برای بازیکنان ایران"),
             cta: {
-              label: "تلگرام مسابقه",
+              label: "تلگرام را باز کنید",
               href: sharedActions.telegram,
               kind: "messaging",
               external: true,
@@ -392,7 +392,7 @@ const localizedContent: Record<Locale, IranMarketContent> = {
             icon: "spark",
             media: slot("home-sport-03", "تنیس برای بازیکنان ایران"),
             cta: {
-              label: "راهنمای شروع",
+              label: "راهنمای سریع را ببینید",
               href: sharedActions.faq,
               kind: "text",
               icon: "arrow",
@@ -405,7 +405,7 @@ const localizedContent: Record<Locale, IranMarketContent> = {
             icon: "chart",
             media: slot("home-sport-04", "بسکتبال برای بازیکنان ایران"),
             cta: {
-              label: "بخش بازی‌ها",
+              label: "وارد بازی‌ها شوید",
               href: sharedActions.games,
               kind: "text",
               icon: "arrow",
@@ -969,7 +969,7 @@ const localizedContent: Record<Locale, IranMarketContent> = {
             badge: "Instant",
             media: slot("home-game-03", "Instant rounds for the Iran audience"),
             cta: {
-              label: "Start guide",
+              label: "startt now",
               href: sharedActions.faq,
               kind: "text",
               icon: "arrow",
@@ -1027,7 +1027,7 @@ const localizedContent: Record<Locale, IranMarketContent> = {
             icon: "football",
             media: slot("home-sport-01", "Football for the Iran audience"),
             cta: {
-              label: "See matching offers",
+              label: "Explore offers",
               href: sharedActions.offers,
               kind: "secondary",
               icon: "gift",
@@ -1040,7 +1040,7 @@ const localizedContent: Record<Locale, IranMarketContent> = {
             icon: "live",
             media: slot("home-sport-02", "Live momentum for the Iran audience"),
             cta: {
-              label: "Match telegram",
+              label: "Open Telegram",
               href: sharedActions.telegram,
               kind: "messaging",
               external: true,
@@ -1054,7 +1054,7 @@ const localizedContent: Record<Locale, IranMarketContent> = {
             icon: "spark",
             media: slot("home-sport-03", "Tennis for the Iran audience"),
             cta: {
-              label: "Start guide",
+              label: "See the quick guide",
               href: sharedActions.faq,
               kind: "text",
               icon: "arrow",
@@ -1067,7 +1067,7 @@ const localizedContent: Record<Locale, IranMarketContent> = {
             icon: "chart",
             media: slot("home-sport-04", "Basketball for the Iran audience"),
             cta: {
-              label: "Open games",
+              label: "Jump into games",
               href: sharedActions.games,
               kind: "text",
               icon: "arrow",

@@ -441,7 +441,7 @@ export const iranGlobals = {
     "home-hero-01": {
       page: "home",
       section: "hero",
-      path: "/iran/home/hero/hero-01.png",
+      path: "/iran/home/hero/hero-01.webp",
       ratio: "8:7",
       fit: "cover",
       variant: "hero-tile",
@@ -451,7 +451,7 @@ export const iranGlobals = {
     "home-hero-02": {
       page: "home",
       section: "hero",
-      path: "/iran/home/hero/hero-02.png",
+      path: "/iran/home/hero/hero-02.webp",
       ratio: "8:7",
       fit: "cover",
       variant: "hero-tile",
@@ -461,7 +461,7 @@ export const iranGlobals = {
     "home-hero-03": {
       page: "home",
       section: "hero",
-      path: "/iran/home/hero/hero-03.png",
+      path: "/iran/home/hero/hero-03.webp",
       ratio: "8:7",
       fit: "cover",
       variant: "hero-tile",
@@ -471,7 +471,7 @@ export const iranGlobals = {
     "home-game-01": {
       page: "home",
       section: "games",
-      path: "/iran/home/games/game-01.png",
+      path: "/iran/home/games/game-01.webp",
       ratio: "6:5",
       fit: "contain",
       variant: "card",
@@ -481,7 +481,7 @@ export const iranGlobals = {
     "home-game-02": {
       page: "home",
       section: "games",
-      path: "/iran/home/games/game-02.png",
+      path: "/iran/home/games/game-02.webp",
       ratio: "6:5",
       fit: "contain",
       variant: "card",
@@ -491,7 +491,7 @@ export const iranGlobals = {
     "home-game-03": {
       page: "home",
       section: "games",
-      path: "/iran/home/games/game-03.png",
+      path: "/iran/home/games/game-03.webp",
       ratio: "6:5",
       fit: "contain",
       variant: "card",
@@ -501,7 +501,7 @@ export const iranGlobals = {
     "home-game-04": {
       page: "home",
       section: "games",
-      path: "/iran/home/games/game-04.png",
+      path: "/iran/home/games/game-04.webp",
       ratio: "6:5",
       fit: "contain",
       variant: "card",
@@ -511,7 +511,7 @@ export const iranGlobals = {
     "home-game-05": {
       page: "home",
       section: "games",
-      path: "/iran/home/games/game-05.png",
+      path: "/iran/home/games/game-05.webp",
       ratio: "6:5",
       fit: "contain",
       variant: "card",
@@ -521,7 +521,7 @@ export const iranGlobals = {
     "home-game-06": {
       page: "home",
       section: "games",
-      path: "/iran/home/games/game-06.png",
+      path: "/iran/home/games/game-06.webp",
       ratio: "6:5",
       fit: "contain",
       variant: "card",
@@ -531,7 +531,7 @@ export const iranGlobals = {
     "home-sport-01": {
       page: "home",
       section: "sports",
-      path: "/iran/home/sports/sport-01.png",
+      path: "/iran/home/sports/sport-01.webp",
       ratio: "4:5",
       fit: "cover",
       variant: "sport",
@@ -541,7 +541,7 @@ export const iranGlobals = {
     "home-sport-02": {
       page: "home",
       section: "sports",
-      path: "/iran/home/sports/sport-02.png",
+      path: "/iran/home/sports/sport-02.webp",
       ratio: "4:5",
       fit: "cover",
       variant: "sport",
@@ -551,7 +551,7 @@ export const iranGlobals = {
     "home-sport-03": {
       page: "home",
       section: "sports",
-      path: "/iran/home/sports/sport-03.png",
+      path: "/iran/home/sports/sport-03.webp",
       ratio: "4:5",
       fit: "cover",
       variant: "sport",
@@ -561,7 +561,7 @@ export const iranGlobals = {
     "home-sport-04": {
       page: "home",
       section: "sports",
-      path: "/iran/home/sports/sport-04.png",
+      path: "/iran/home/sports/sport-04.webp",
       ratio: "4:5",
       fit: "cover",
       variant: "sport",
@@ -571,7 +571,7 @@ export const iranGlobals = {
     "home-offer-01": {
       page: "home",
       section: "offers",
-      path: "/iran/home/offers/offer-01.png",
+      path: "/iran/home/offers/offer-01.webp",
       ratio: "4:3",
       fit: "contain",
       variant: "offer",
@@ -581,7 +581,7 @@ export const iranGlobals = {
     "home-offer-02": {
       page: "home",
       section: "offers",
-      path: "/iran/home/offers/offer-02.png",
+      path: "/iran/home/offers/offer-02.webp",
       ratio: "4:3",
       fit: "contain",
       variant: "offer",
@@ -591,7 +591,7 @@ export const iranGlobals = {
     "home-offer-03": {
       page: "home",
       section: "offers",
-      path: "/iran/home/offers/offer-03.png",
+      path: "/iran/home/offers/offer-03.webp",
       ratio: "4:3",
       fit: "contain",
       variant: "offer",
@@ -601,7 +601,7 @@ export const iranGlobals = {
     "home-offer-04": {
       page: "home",
       section: "offers",
-      path: "/iran/home/offers/offer-04.png",
+      path: "/iran/home/offers/offer-04.webp",
       ratio: "4:3",
       fit: "contain",
       variant: "offer",
@@ -621,7 +621,7 @@ export const iranGlobals = {
     "partnership-step-01": {
       page: "partnership",
       section: "steps",
-      path: "/iran/partnership/steps/step-01.png",
+      path: "/iran/partnership/steps/step-01.webp",
       ratio: "16:10",
       fit: "cover",
       variant: "step",
@@ -631,7 +631,7 @@ export const iranGlobals = {
     "partnership-step-02": {
       page: "partnership",
       section: "steps",
-      path: "/iran/partnership/steps/step-02.png",
+      path: "/iran/partnership/steps/step-02.webp",
       ratio: "16:10",
       fit: "cover",
       variant: "step",
@@ -641,7 +641,7 @@ export const iranGlobals = {
     "partnership-step-03": {
       page: "partnership",
       section: "steps",
-      path: "/iran/partnership/steps/step-03.png",
+      path: "/iran/partnership/steps/step-03.webp",
       ratio: "16:10",
       fit: "cover",
       variant: "step",
@@ -651,7 +651,7 @@ export const iranGlobals = {
     "partnership-route-01": {
       page: "partnership",
       section: "paths",
-      path: "/iran/partnership/routes/route-01.png",
+      path: "/iran/partnership/routes/route-01.webp",
       ratio: "16:10",
       fit: "contain",
       variant: "route",
@@ -661,7 +661,7 @@ export const iranGlobals = {
     "partnership-route-02": {
       page: "partnership",
       section: "paths",
-      path: "/iran/partnership/routes/route-02.png",
+      path: "/iran/partnership/routes/route-02.webp",
       ratio: "16:10",
       fit: "contain",
       variant: "route",
@@ -671,7 +671,7 @@ export const iranGlobals = {
     "faq-support": {
       page: "faq",
       section: "support",
-      path: "/iran/faq/faq-support.png",
+      path: "/iran/faq/faq-support.webp",
       ratio: "16:10",
       fit: "contain",
       variant: "faq",
